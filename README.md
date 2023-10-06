@@ -12,7 +12,7 @@ I'm Eduardo Wronscki Ricardo, a passionate Full-Stack Developer with a knack for
 
 📫 **How to Reach Me**:
 - 📧 Email: [eduwric@gmail.com](mailto:eduwric@gmail.com)
-- 💼 LinkedIn: ![Eduardo Wronscki Ricardo](https://www.linkedin.com/in/eduardo-wronscki/)
+- 💼 LinkedIn: [Eduardo Wronscki Ricardo](https://www.linkedin.com/in/eduardo-wronscki/)
 
 😄 **Fun Fact**: When I'm not coding, you can find me exploring new hiking trails, experimenting with cooking recipes, or attempting to learn a new language (currently working on my French!).
 
