@@ -4,7 +4,7 @@ I'm Eduardo Wronscki Ricardo, a passionate Full-Stack Developer with a knack for
 
 🚀 **What I Do**: I specialize in building scalable web and mobile applications using tech stacks like React, Node.js, GraphQL, and more. I thrive on solving complex problems and delivering high-quality solutions.
 
-🌱 **Currently Learning**: I'm currently diving deep into the world of cloud services, infrastructure, and Golang. Exploring the power of cloud computing and mastering Golang to build efficient backend systems.
+🌱 **Currently Crafting**: I'm currently building @Hubfy with Rust, a company that provide solutions focusing mainly on small markets and business.
 
 👯 **Open to Collaboration**: I'm always open to exciting collaboration opportunities. If you have a project in mind or need a hand with anything tech-related, feel free to reach out!
 
@@ -14,15 +14,8 @@ I'm Eduardo Wronscki Ricardo, a passionate Full-Stack Developer with a knack for
 - 📧 Email: [eduwric@gmail.com](mailto:eduwric@gmail.com)
 - 💼 LinkedIn: [Eduardo Wronscki Ricardo](https://www.linkedin.com/in/eduardo-wronscki/)
 
-😄 **Fun Fact**: When I'm not coding, you can find me exploring new hiking trails, experimenting with cooking recipes, or attempting to learn a new language (currently working on my Spanish!).
+😄 **Fun Fact**: When I'm not coding, you can find me exploring new hiking trails, experimenting with cooking recipes.
 
 Let's connect, collaborate, and make some amazing tech magic together! ✨
 
 
-## Overhall Stats
-
- <div>
-  <a href="https://github.com/eduwr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduwr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduwr&layout=compact&langs_count=7&theme=dark"/>
-</div>
