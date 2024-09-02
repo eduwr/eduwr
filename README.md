@@ -4,7 +4,7 @@ I'm Eduardo Wronscki Ricardo, a passionate Full-Stack Developer with a knack for
 
 🚀 **What I Do**: I specialize in building scalable web and mobile applications using tech stacks like React, Node.js, GraphQL, and more. I thrive on solving complex problems and delivering high-quality solutions.
 
-🌱 **Currently Crafting**: I'm currently @Hubfy with Rust, a company that provide solutions focusing mainly on small markets and business.
+🌱 **Currently Crafting**: @Hubfy with Rust, a company that provide solutions focusing mainly on small markets and business.
 
 👯 **Open to Collaboration**: I'm always open to exciting collaboration opportunities. If you have a project in mind or need a hand with anything tech-related, feel free to reach out!
 
