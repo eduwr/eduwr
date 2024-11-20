@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Eduardo Wronscki Ricardo, a passionate Full-Stack Developer with a knack for crafting elegant and meaningful software solutions. With over four years of experience in the field, I've had the privilege of working with cutting-edge technologies to bring innovative ideas to life.
+I'm Eduardo Ricardo, a passionate Full-Stack Developer with a knack for crafting elegant and meaningful software solutions. With over four years of experience in the field, I've had the privilege of working with cutting-edge technologies to bring innovative ideas to life.
 
 🚀 **What I Do**: I specialize in building scalable web and mobile applications using tech stacks like React, Node.js, GraphQL, and more. I thrive on solving complex problems and delivering high-quality solutions.
 
